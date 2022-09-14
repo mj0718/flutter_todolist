@@ -1,6 +1,6 @@
 # spl_example
 
-A new Flutter project.
+to do list 앱 - 휴지통 아이콘 추가 예정
 
 ## Getting Started
 
